@@ -1,4 +1,4 @@
-# Automated-Greenhouse
+# Automated Greenhouse
 
 Most important features of this system
   - 
