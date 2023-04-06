@@ -3,7 +3,7 @@
 Most important features of this system
   - 
 
-### Android Application
+## Android Application
 
 This is a java mobile application which is implemented using Flutter. Firebase Realtime database is used as the database.
  
